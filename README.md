@@ -2,6 +2,8 @@
 
 Actualmente soy licenciado en Antropología con mención en Antropología Física de la Universidad de Concepción. Me encuentro realizando la memoria de título (tesis).
 
+CV
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
